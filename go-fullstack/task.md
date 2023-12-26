@@ -6,7 +6,7 @@ Create a basic web application with a simple front-end and a Golang back-end. Th
 
 ## Resources for Learning Golang
 
-If you're new to Golang, here are some resources to get you started. Check them serially:
+If you're new to Golang, here are some resources to get you started. Don't worry. Go is a very short language unlike other mainstream lang. You can learn it in an afternoon. We just want to check how quickly you can learn. Check them serially:
 
 - [Official Golang Documentation](https://go.dev/doc/tutorial/getting-started)
 - [A Tour of Go](https://tour.golang.org/)
