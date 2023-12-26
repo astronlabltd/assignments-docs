@@ -44,7 +44,7 @@ If you're new to Golang, here are some resources to get you started. Check them 
 - Create your own **private repository** on GitHub for the project.
 - Work on your solution in your private repository.
 - Add `@omar391` as a collaborator to your private repository.
-- Once completed, email the link to your private repository to `omar391`.
+- Once completed, submit your response here: https://forms.gle/2wgWRCVGjhcRmyfX7.
 
 ## Evaluation Criteria
 
