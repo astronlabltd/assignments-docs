@@ -1,4 +1,4 @@
-# Mini TaskManagement Application - Assignment
+# Mini TaskManagement Dashboard - Assignment
 
 ## Objective
 
